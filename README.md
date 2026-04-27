@@ -69,10 +69,6 @@ My work spans Next.js, React, Vue, React Native, TypeScript, Laravel, Supabase, 
 </p>
 
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=rithsombo&theme=algolia&no-frame=true&no-bg=true&margin-w=12&column=6" alt="GitHub profile trophies" />
-</p>
-
-<p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rithsombo&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
 </p>
 
