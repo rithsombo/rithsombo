@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://rithsombo.vercel.app">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:2563eb,100:14b8a6&text=Rith%20Sombo&fontColor=ffffff&fontSize=52&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Product%20Interfaces%20%7C%20Web%20%2B%20Mobile&descSize=17&descAlignY=56" alt="Rith Sombo - Frontend Developer" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:2563eb,100:14b8a6&text=Rith%20Sombo&fontColor=ffffff&fontSize=52&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Product%20Interfaces%20%7C%20Web%20%2B%20Mobile&descSize=17&descAlignY=56" alt="Rith Sombo - Full-Stack Developer" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=760&lines=I+build+clean+frontend+systems.;I+turn+product+flows+into+usable+interfaces.;Next.js+%2B+React+%2B+Vue+%2B+React+Native+%2B+TypeScript." alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=760&lines=I+build+clean+full-stack+systems.;I+turn+product+flows+into+usable+interfaces.;Next.js+%2B+React+%2B+Vue+%2B+React+Native+%2B+TypeScript." alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 ## Current Focus
 
-- Building frontend systems for web and mobile products
+- Building full-stack systems for web and mobile products
 - Improving booking, checkout, dashboard, and ecommerce flows
 - Working with Next.js, React, TypeScript, Vue, React Native, Tailwind CSS, and shadcn/ui
 - Learning better patterns for product architecture, state management, accessibility, and performance
@@ -35,7 +35,7 @@
 | [Skincare Shop](https://github.com/rithsombo/skincare-shop) | Ecommerce storefront with product discovery, cart, and checkout-oriented UX | Next.js, React, TypeScript, Tailwind CSS |
 | [Skincare Shop Portal](https://github.com/rithsombo/skincare-shop-portal) | Admin-style product and operational management interface | TypeScript, React, Tailwind CSS |
 | [My Portfolio](https://github.com/rithsombo/My-Portfolio) | Personal portfolio and professional project presentation | TypeScript, React |
-| [Small Parking System](https://github.com/rithsombo/small-parking-system) | Practical operational workflow for parking management | JavaScript, backend + frontend |
+| [Small Parking System](https://github.com/rithsombo/small-parking-system) | Practical operational workflow for parking management | JavaScript, full-stack |
 | [Stock Management](https://github.com/rithsombo/stock-mangement) | Inventory-style UI and data management practice | Vue |
 
 ## Toolbox
@@ -45,7 +45,7 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Frontend-Next.js%20%7C%20React%20%7C%20Vue-2563eb?style=flat-square" alt="Frontend badge" />
+  <img src="https://img.shields.io/badge/Full--Stack-Next.js%20%7C%20React%20%7C%20Vue-2563eb?style=flat-square" alt="Full-stack badge" />
   <img src="https://img.shields.io/badge/Mobile-React%20Native%20%7C%20Flutter-14b8a6?style=flat-square" alt="Mobile badge" />
   <img src="https://img.shields.io/badge/Backend-Express%20%7C%20Laravel%20%7C%20.NET-0f172a?style=flat-square" alt="Backend badge" />
   <img src="https://img.shields.io/badge/Design%20Systems-shadcn%2Fui%20%7C%20Tailwind-7c3aed?style=flat-square" alt="Design systems badge" />
