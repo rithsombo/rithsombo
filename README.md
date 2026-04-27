@@ -76,13 +76,6 @@ My work spans Next.js, React, Vue, React Native, TypeScript, Laravel, Supabase, 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rithsombo&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
 </p>
 
-## How I Work
-
-- I care about product clarity before visual decoration.
-- I prefer simple, maintainable components over clever code.
-- I think good frontend work means good states: loading, empty, error, success, and the tiny transitions between them.
-- I enjoy working close to real users, business flows, and production details.
-
 ## Contact
 
 - Portfolio: [rithsombo.vercel.app](https://rithsombo.vercel.app)
