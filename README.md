@@ -21,12 +21,6 @@
   <img src="https://img.shields.io/badge/Open%20to-Practical%20Work-22c55e?style=for-the-badge" alt="Open to practical work" />
 </p>
 
-## About
-
-I am a frontend developer based in Cambodia, currently working at Haystack Labs. I build practical product interfaces for ecommerce, booking flows, dashboards, admin tools, and mobile apps, with a focus on clear user journeys, maintainable structure, and polished details.
-
-My work spans Next.js, React, Vue, React Native, TypeScript, Laravel, Supabase, Shopify, and API-driven products. I like turning messy product requirements into interfaces that feel calm, fast, and easy to use.
-
 ## Current Focus
 
 - Building frontend systems for web and mobile products
