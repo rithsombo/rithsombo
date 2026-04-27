@@ -21,13 +21,6 @@
   <img src="https://img.shields.io/badge/Open%20to-Practical%20Work-22c55e?style=for-the-badge" alt="Open to practical work" />
 </p>
 
-## Current Focus
-
-- Building full-stack systems for web and mobile products
-- Improving booking, checkout, dashboard, and ecommerce flows
-- Working with Next.js, React, TypeScript, Vue, React Native, Tailwind CSS, and shadcn/ui
-- Learning better patterns for product architecture, state management, accessibility, and performance
-
 ## Selected Work
 
 | Project | What it shows | Stack |
