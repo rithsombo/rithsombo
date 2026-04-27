@@ -57,21 +57,6 @@ My work spans Next.js, React, Vue, React Native, TypeScript, Laravel, Supabase, 
   <img src="https://img.shields.io/badge/Design%20Systems-shadcn%2Fui%20%7C%20Tailwind-7c3aed?style=flat-square" alt="Design systems badge" />
 </p>
 
-## GitHub Snapshot
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rithsombo&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Rith Sombo GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithsombo&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used languages" />
-</p>
-
-<p>
-  <img height="165" src="https://streak-stats.demolab.com?user=rithsombo&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rithsombo&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
-</p>
-
 ## Contact
 
 - Portfolio: [rithsombo.vercel.app](https://rithsombo.vercel.app)
