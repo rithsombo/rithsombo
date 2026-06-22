@@ -1,51 +1,58 @@
-<p align="center">
-  <a href="https://rithsombo.vercel.app">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:2563eb,100:14b8a6&text=Rith%20Sombo&fontColor=ffffff&fontSize=52&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Product%20Interfaces%20%7C%20Web%20%2B%20Mobile&descSize=17&descAlignY=56" alt="Rith Sombo - Full-Stack Developer" />
-  </a>
-</p>
+# Rith Sombo
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=760&lines=I+build+clean+full-stack+systems.;I+turn+product+flows+into+usable+interfaces.;Next.js+%2B+React+%2B+Vue+%2B+React+Native+%2B+TypeScript." alt="Typing intro" />
-</p>
+<sub>full-stack developer · product interfaces · web + mobile</sub>
 
-<p align="center">
-  <a href="https://rithsombo.vercel.app"><img src="https://img.shields.io/badge/Portfolio-rithsombo.vercel.app-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/rithsombo"><img src="https://img.shields.io/badge/GitHub-rithsombo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:rith.sombo.22@gmail.com"><img src="https://img.shields.io/badge/Email-rith.sombo.22%40gmail.com-2563eb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+I like building software that feels simple after the messy parts have been handled:
+clear flows, readable code, and interfaces people can finish a task in.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rithsombo&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/rithsombo?style=for-the-badge&color=14b8a6&label=Followers&logo=github" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/rithsombo?style=for-the-badge&color=f59e0b&label=Stars&logo=github" alt="GitHub stars" />
-  <img src="https://img.shields.io/badge/Open%20to-Practical%20Work-22c55e?style=for-the-badge" alt="Open to practical work" />
-</p>
+Most of my work sits around **Next.js / React / Vue**, with backend pieces in
+**Node.js, Laravel, databases, and APIs**. I also spend time on mobile ideas with
+**React Native / Flutter** when the product needs to leave the browser.
 
-## Selected Work
+---
 
-| Project | What it shows | Stack |
+## What I usually work on
+
+```txt
+product idea  ->  screen flow  ->  frontend build  ->  API/data glue  ->  polish
+```
+
+- Turning rough product requirements into working interfaces
+- Building dashboards, portals, ecommerce flows, and operational tools
+- Keeping frontend code structured enough to come back to later
+- Connecting UI to real data without making the user experience feel heavy
+
+---
+
+## Selected work
+
+| Project | Notes | Stack |
 | --- | --- | --- |
-| [Skincare Shop](https://github.com/rithsombo/skincare-shop) | Ecommerce storefront with product discovery, cart, and checkout-oriented UX | Next.js, React, TypeScript, Tailwind CSS |
-| [Skincare Shop Portal](https://github.com/rithsombo/skincare-shop-portal) | Admin-style product and operational management interface | TypeScript, React, Tailwind CSS |
-| [My Portfolio](https://github.com/rithsombo/My-Portfolio) | Personal portfolio and professional project presentation | TypeScript, React |
-| [Small Parking System](https://github.com/rithsombo/small-parking-system) | Practical operational workflow for parking management | JavaScript, full-stack |
-| [Stock Management](https://github.com/rithsombo/stock-mangement) | Inventory-style UI and data management practice | Vue |
+| [Skincare Shop](https://github.com/rithsombo/skincare-shop) | Ecommerce storefront: discovery, cart, and checkout-focused UI. | Next.js · React · TypeScript · Tailwind |
+| [Skincare Shop Portal](https://github.com/rithsombo/skincare-shop-portal) | Admin-style product and operations portal. | React · TypeScript · Tailwind |
+| [My Portfolio](https://github.com/rithsombo/My-Portfolio) | Personal site for project presentation. | React · TypeScript |
+| [Small Parking System](https://github.com/rithsombo/small-parking-system) | Practical workflow for parking management. | JavaScript · Full-stack |
+| [Stock Management](https://github.com/rithsombo/stock-mangement) | Inventory-style UI and data management practice. | Vue |
 
-## Toolbox
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,next,react,vue,tailwind,nodejs,express,laravel,php,python,flutter,dart,supabase,postgres,mysql,mongodb,prisma,git,github,vercel,netlify,figma" alt="Tech stack icons" />
-</p>
+## Tools I reach for
 
-<p>
-  <img src="https://img.shields.io/badge/Full--Stack-Next.js%20%7C%20React%20%7C%20Vue-2563eb?style=flat-square" alt="Full-stack badge" />
-  <img src="https://img.shields.io/badge/Mobile-React%20Native%20%7C%20Flutter-14b8a6?style=flat-square" alt="Mobile badge" />
-  <img src="https://img.shields.io/badge/Backend-Express%20%7C%20Laravel%20%7C%20.NET-0f172a?style=flat-square" alt="Backend badge" />
-  <img src="https://img.shields.io/badge/Design%20Systems-shadcn%2Fui%20%7C%20Tailwind-7c3aed?style=flat-square" alt="Design systems badge" />
-</p>
+**Frontend**  
+`TypeScript` `React` `Next.js` `Vue` `Tailwind CSS` `shadcn/ui`
 
-## Contact
+**Backend / data**  
+`Node.js` `Express` `Laravel` `PHP` `PostgreSQL` `MySQL` `MongoDB` `Prisma` `Supabase`
+
+**Mobile / shipping**  
+`React Native` `Flutter` `Dart` `Vercel` `Netlify` `Git` `Figma`
+
+---
+
+## Find me
 
 - Portfolio: [rithsombo.vercel.app](https://rithsombo.vercel.app)
 - GitHub: [github.com/rithsombo](https://github.com/rithsombo)
 - Email: [rith.sombo.22@gmail.com](mailto:rith.sombo.22@gmail.com)
+
+<sub>Quietly improving things, one screen at a time.</sub>
