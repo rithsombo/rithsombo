@@ -1,95 +1,76 @@
 <div align="center">
 
-# RITH SOMBO
+<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:111827,100:312e81&text=RITH%20SOMBO&fontColor=facc15&fontSize=42&fontAlignY=48&desc=FRONTEND%20DESIGNER%20%2F%20FULL-STACK%20DEVELOPER&descColor=67e8f9&descSize=14&descAlignY=76" alt="Rith Sombo" />
 
 <pre>
-┌──────────────────────────────────────────────────────────────┐
-│  FRONTEND DESIGNER / FULL-STACK DEVELOPER                    │
-│  web interfaces · product flows · dashboards · mobile ideas   │
-└──────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════╗
+║  PIXEL UI  •  PRODUCT SCREENS  •  WEB + MOBILE      ║
+╚══════════════════════════════════════════════════════╝
 </pre>
 
-[portfolio](https://rithsombo.vercel.app) · [github](https://github.com/rithsombo) · [email](mailto:rith.sombo.22@gmail.com)
+<a href="https://rithsombo.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=facc15" /></a>
+<a href="mailto:rith.sombo.22@gmail.com"><img src="https://img.shields.io/badge/EMAIL-312e81?style=for-the-badge&logo=gmail&logoColor=67e8f9" /></a>
+<a href="https://github.com/rithsombo"><img src="https://img.shields.io/badge/GITHUB-0f172a?style=for-the-badge&logo=github&logoColor=ffffff" /></a>
 
 </div>
 
 ---
 
-## About
+<table>
+<tr>
+<td width="50%">
 
-I build interfaces with a little more character than the default template.
-
-My work is usually somewhere between **frontend design** and **full-stack product building**:
-turning rough ideas into screens, wiring those screens to real data, then polishing the small
-interactions that make the product feel easier to use.
-
-I like clean structure, practical UI, and visual systems that feel intentional.
+### DESIGN MODE
 
 ```txt
-moodboard -> layout -> component system -> frontend build -> api/data -> polish
+Retro feel
+Clean layout
+Sharp hierarchy
+Small interactions
+Reusable components
 ```
 
----
+</td>
+<td width="50%">
 
-## Interface style
+### BUILD MODE
 
-<table>
-  <tr>
-    <td><strong>01</strong></td>
-    <td><strong>Frontend design</strong></td>
-    <td>Layouts, visual hierarchy, responsive UI, design systems, interaction polish.</td>
-  </tr>
-  <tr>
-    <td><strong>02</strong></td>
-    <td><strong>Product frontend</strong></td>
-    <td>Dashboards, ecommerce flows, portals, admin tools, landing pages.</td>
-  </tr>
-  <tr>
-    <td><strong>03</strong></td>
-    <td><strong>Full-stack glue</strong></td>
-    <td>APIs, databases, authentication flows, backend integration, deployment.</td>
-  </tr>
+```txt
+React / Next.js
+Vue / TypeScript
+Tailwind / shadcn-ui
+Node / Laravel
+Mobile experiments
+```
+
+</td>
+</tr>
 </table>
 
 ---
 
-## Selected work
+<div align="center">
 
-| Project | What I focused on | Stack |
-| --- | --- | --- |
-| [Skincare Shop](https://github.com/rithsombo/skincare-shop) | Ecommerce storefront with product discovery, cart, and checkout-focused UI. | Next.js · React · TypeScript · Tailwind |
-| [Skincare Shop Portal](https://github.com/rithsombo/skincare-shop-portal) | Admin portal for managing products and operations. | React · TypeScript · Tailwind |
-| [My Portfolio](https://github.com/rithsombo/My-Portfolio) | Personal project presentation and frontend polish. | React · TypeScript |
-| [Small Parking System](https://github.com/rithsombo/small-parking-system) | Practical workflow for parking management. | JavaScript · Full-stack |
-| [Stock Management](https://github.com/rithsombo/stock-mangement) | Inventory-style screens and data management practice. | Vue |
+### SELECTED SCREENS
 
----
+| project | focus |
+| --- | --- |
+| [Skincare Shop](https://github.com/rithsombo/skincare-shop) | ecommerce UI |
+| [Skincare Shop Portal](https://github.com/rithsombo/skincare-shop-portal) | admin dashboard |
+| [My Portfolio](https://github.com/rithsombo/My-Portfolio) | personal site |
+| [Small Parking System](https://github.com/rithsombo/small-parking-system) | workflow app |
+| [Stock Management](https://github.com/rithsombo/stock-mangement) | inventory UI |
 
-## Toolbox
-
-```txt
-FRONTEND   TypeScript  React  Next.js  Vue  Tailwind CSS  shadcn/ui
-BACKEND    Node.js  Express  Laravel  PHP  Prisma  Supabase
-DATA       PostgreSQL  MySQL  MongoDB
-MOBILE     React Native  Flutter  Dart
-SHIP       Git  GitHub  Vercel  Netlify  Figma
-```
+</div>
 
 ---
-
-## Current taste
-
-- Retro interfaces with clean spacing
-- Terminal-style layouts without sacrificing readability
-- Product screens that feel calm, direct, and fast
-- Component systems that are easy to reuse later
 
 <div align="center">
 
+<img src="https://skillicons.dev/icons?i=ts,js,react,next,vue,tailwind,nodejs,express,laravel,php,postgres,mysql,mongodb,supabase,prisma,flutter,dart,git,github,vercel,figma" alt="tools" />
+
 <pre>
-╭────────────────────────────────────────╮
-│  quietly improving one screen at a time │
-╰────────────────────────────────────────╯
+┌─ currently designing interfaces that feel fast, clear, and a little nostalgic ─┐
 </pre>
 
 </div>
